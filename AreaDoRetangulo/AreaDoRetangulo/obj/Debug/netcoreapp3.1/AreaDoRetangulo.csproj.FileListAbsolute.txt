@@ -1,0 +1,13 @@
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.exe
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.deps.json
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.runtimeconfig.json
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.runtimeconfig.dev.json
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.dll
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\bin\Debug\netcoreapp3.1\AreaDoRetangulo.pdb
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.csprojAssemblyReference.cache
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.AssemblyInfoInputs.cache
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.AssemblyInfo.cs
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.csproj.CoreCompileInputs.cache
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.dll
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.pdb
+C:\Users\Davi SH\source\repos\AreaDoRetangulo\AreaDoRetangulo\obj\Debug\netcoreapp3.1\AreaDoRetangulo.genruntimeconfig.cache

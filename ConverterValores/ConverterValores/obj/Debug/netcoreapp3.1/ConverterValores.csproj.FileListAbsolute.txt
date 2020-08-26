@@ -1,0 +1,13 @@
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.exe
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.deps.json
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.runtimeconfig.json
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.runtimeconfig.dev.json
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.dll
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\bin\Debug\netcoreapp3.1\ConverterValores.pdb
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.csprojAssemblyReference.cache
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.AssemblyInfoInputs.cache
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.AssemblyInfo.cs
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.csproj.CoreCompileInputs.cache
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.dll
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.pdb
+C:\Users\Davi SH\source\repos\ConverterValores\ConverterValores\obj\Debug\netcoreapp3.1\ConverterValores.genruntimeconfig.cache

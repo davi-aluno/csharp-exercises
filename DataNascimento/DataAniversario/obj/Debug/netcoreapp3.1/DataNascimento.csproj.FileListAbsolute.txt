@@ -1,0 +1,13 @@
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.exe
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.deps.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.runtimeconfig.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.runtimeconfig.dev.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.dll
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataNascimento.pdb
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.csprojAssemblyReference.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.AssemblyInfoInputs.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.AssemblyInfo.cs
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.csproj.CoreCompileInputs.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.dll
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.pdb
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataNascimento.genruntimeconfig.cache

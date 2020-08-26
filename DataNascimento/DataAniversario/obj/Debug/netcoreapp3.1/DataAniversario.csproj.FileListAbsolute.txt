@@ -1,0 +1,13 @@
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.exe
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.deps.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.runtimeconfig.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.runtimeconfig.dev.json
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.dll
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\bin\Debug\netcoreapp3.1\DataAniversario.pdb
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.AssemblyInfoInputs.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.AssemblyInfo.cs
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.csproj.CoreCompileInputs.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.dll
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.pdb
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.genruntimeconfig.cache
+C:\Users\Davi SH\source\repos\DataAniversario\DataAniversario\obj\Debug\netcoreapp3.1\DataAniversario.csprojAssemblyReference.cache

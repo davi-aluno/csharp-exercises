@@ -1,0 +1,12 @@
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.exe
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.deps.json
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.runtimeconfig.json
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.runtimeconfig.dev.json
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.dll
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\bin\Debug\netcoreapp3.1\ValidarNumeros.pdb
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.AssemblyInfoInputs.cache
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.AssemblyInfo.cs
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.dll
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.pdb
+C:\Users\Davi SH\source\repos\ValidarNumeros\ValidarNumeros\obj\Debug\netcoreapp3.1\ValidarNumeros.genruntimeconfig.cache
