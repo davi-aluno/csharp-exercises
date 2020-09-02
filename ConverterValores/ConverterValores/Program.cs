@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace ConverterValores
 {
@@ -12,15 +12,15 @@ namespace ConverterValores
             UInt16 num4     = 3;
             UInt32 num5     = 9;
             UInt64 num6     = 15;
-            string ago1     = "11";
-            string ago2     = "19";
-            string ago3     = "13";
-            string ago4     = "14";
-            byte   ago5     = 19;
-            ushort ago6     = 10;
-            string ago7     = "22";
-            string ago8     = "22";
-            string ago9     = "23";
+            string age1     = "11";
+            string age2     = "19";
+            string age3     = "13";
+            string age4     = "14";
+            byte   age5     = 19;
+            ushort age6     = 10;
+            string age7     = "22";
+            string age8     = "22";
+            string age9     = "23";
             char   palavra1 = 'D';
 
             double convertNum1     = num1;
@@ -29,16 +29,16 @@ namespace ConverterValores
             string convertNum3     = num4.ToString();
             string convertNum4     = num5.ToString();
             string convertNum5     = num6.ToString();
-            Int16  convertAgo1     = Int16.Parse(ago1);
-            Int32  convertAgo2     = Int32.Parse(ago2);
-            Int64  convertAgo3     = Int64.Parse(ago3);
-            sbyte  convertAgo4     = Convert.ToSByte(ago4);
-            string convertAgo5     = ago5.ToString();
-            string convertAgo6     = ago6.ToString();
-            ushort convertAgo7     = Convert.ToUInt16(ago7);
-            short  convertAgo8     = Convert.ToInt16(ago8);
-            long   convertago9     = Convert.ToInt64(ago9);
-            string convertago10    = Convert.ToString(num1); 
+            Int16  convertage1     = Int16.Parse(age1);
+            Int32  convertage2     = Int32.Parse(age2);
+            Int64  convertage3     = Int64.Parse(age3);
+            sbyte  convertage4     = Convert.ToSByte(age4);
+            string convertage5     = age5.ToString();
+            string convertage6     = age6.ToString();
+            ushort convertage7     = Convert.ToUInt16(age7);
+            short  convertage8     = Convert.ToInt16(age8);
+            long   convertage9     = Convert.ToInt64(age9);
+            string convertage10    = Convert.ToString(num1); 
             string convertPalavra1 = palavra1.ToString();
 
             Console.WriteLine
@@ -49,16 +49,16 @@ namespace ConverterValores
                 $"convertNum3    : {convertNum3}     tipo: {convertNum3.GetType()}    \n" +
                 $"convertNum4    : {convertNum4}     tipo: {convertNum4.GetType()}    \n" +
                 $"convertNum5    : {convertNum5}     tipo: {convertNum5.GetType()}    \n" +
-                $"convertAgo1    : {convertAgo1}     tipo: {convertAgo1.GetType()}    \n" +
-                $"convertAgo2    : {convertAgo2}     tipo: {convertAgo2.GetType()}    \n" +
-                $"convertAgo3    : {convertAgo3}     tipo: {convertAgo3.GetType()}    \n" +
-                $"convertAgo4    : {convertAgo4}     tipo: {convertAgo4.GetType()}    \n" +
-                $"convertAgo5    : {convertAgo5}     tipo: {convertAgo5.GetType()}    \n" +
-                $"convertAgo6    : {convertAgo6}     tipo: {convertAgo6.GetType()}    \n" +
-                $"convertAgo7    : {convertAgo7}     tipo: {convertAgo7.GetType()}    \n" +
-                $"convertAgo8    : {convertAgo8}     tipo: {convertAgo8.GetType()}    \n" +
-                $"convertago9    : {convertago9}     tipo: {convertago9.GetType()}    \n" +
-                $"convertago10   : {convertago10}    tipo: {convertago10.GetType()}   \n" +
+                $"convertage1    : {convertage1}     tipo: {convertage1.GetType()}    \n" +
+                $"convertage2    : {convertage2}     tipo: {convertage2.GetType()}    \n" +
+                $"convertage3    : {convertage3}     tipo: {convertage3.GetType()}    \n" +
+                $"convertage4    : {convertage4}     tipo: {convertage4.GetType()}    \n" +
+                $"convertage5    : {convertage5}     tipo: {convertage5.GetType()}    \n" +
+                $"convertage6    : {convertage6}     tipo: {convertage6.GetType()}    \n" +
+                $"convertage7    : {convertage7}     tipo: {convertage7.GetType()}    \n" +
+                $"convertage8    : {convertage8}     tipo: {convertage8.GetType()}    \n" +
+                $"convertage9    : {convertage9}     tipo: {convertage9.GetType()}    \n" +
+                $"convertage10   : {convertage10}    tipo: {convertage10.GetType()}   \n" +
                 $"convertPalavra1: {convertPalavra1} tipo: {convertPalavra1.GetType()}\n"
             );
         }
